@@ -10,7 +10,14 @@ Plataforma completa de treino prático e teoria para dominar os conteúdos cobra
 
 ---
 
-## 🏃 Como Rodar a Plataforma
+## 🌐 Acesso Online via GitHub Pages
+
+A plataforma está hospedada e pode ser acessada de qualquer lugar (celular, tablet ou PC):
+👉 **[https://daniab-sec.github.io/ProjectStudyExam/](https://daniab-sec.github.io/ProjectStudyExam/)**
+
+---
+
+## 🏃 Como Rodar Localmente (com Backend PHP Real)
 
 No terminal, dentro desta pasta, basta executar:
 
