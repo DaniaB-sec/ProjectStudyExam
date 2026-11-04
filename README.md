@@ -1,4 +1,11 @@
 # 🚀 WebDev Mastery Lab - Plataforma Interativa de Estudos (Prova 2026.2)
+##⚠️ Disclaimer
+
+##This project is intended exclusively as a personal study aid, developed with the assistance of Generative AI to reinforce and assess knowledge acquired through coursework and classroom instruction.
+
+##It is not intended to serve as a representation of my independent programming abilities, professional experience, or original development work. No claim of sole authorship or independent implementation is made regarding AI-generated code or scripts.
+
+##The repository is publicly accessible solely to accommodate GitHub Pages hosting requirements. Its public availability should not be interpreted as a claim of original authorship over AI-generated components.
 
 Plataforma completa de treino prático e teoria para dominar os conteúdos cobrados na prova:
 - **Fetch API** com 2 `.then()` e anatomia das Promises
